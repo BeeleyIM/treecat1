@@ -1,0 +1,89 @@
+body {
+	background-image: url("fur.jpg");
+}
+
+#heading {
+	margin-left: 300px;
+	margin-right: 300px;
+
+}
+
+#heading:hover {
+  	-webkit-transform: rotateZ(-15deg);
+	-ms-transform: rotateZ(-15deg);
+	transform: rotateZ(-15deg);
+}
+
+
+
+
+
+#gain {
+	font-family: 'Comfortaa', cursive;
+	text-align: center;
+	color: white;
+	background-color: #00897b;
+}
+
+
+h2 {
+	text-align: center;
+}
+
+h2:hover {
+    color: black;
+    font-family: 'Pacifico', cursive;
+}
+
+h3:hover {
+    color: black;
+    font-family: 'Pacifico', cursive;
+}
+
+#links {
+	text-align: center;
+}
+
+#firecat:hover {
+	-webkit-transform: scale(.9);
+	-ms-transform: scale(.9);
+	transform: scale(.9);
+}
+
+
+
+#instructions {
+	font-family: 'Comfortaa', cursive;
+	margin-top: 50px;
+	text-align: center;
+	color: white;
+	background-color: #00897b;
+	border-width: 20px;
+	border-color: #00564d;
+	border-style: double;
+}
+
+#skills {
+	font-family: 'Comfortaa', cursive;
+	margin-top: 50px;
+	color: white;
+	background-color: #00897b;
+	border-width: 20px;
+	border-color: #00564d;
+	border-style: double;
+}
+
+img {
+	display: block;
+    margin: auto;
+    
+}
+#play {
+	opacity:0.5;
+}
+#play:hover {
+	opacity:1;
+}
+a {
+
+}
